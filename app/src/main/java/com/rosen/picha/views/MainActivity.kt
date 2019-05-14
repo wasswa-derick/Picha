@@ -1,7 +1,8 @@
-package com.rosen.picha
+package com.rosen.picha.views
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.rosen.picha.R
 
 class MainActivity : AppCompatActivity() {
 
